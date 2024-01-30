@@ -18,11 +18,11 @@ body {
   flex-direction: column;
   padding: 0;
   margin: 0;
-  font-family: "Arial", sans-serif;
-  font-size: 16px;
+  font-family: "Poppins","Arial", sans-serif;
+  font-size: 18px;
   line-height: 1.5;
-  background-color: #fff;
-  color: #222;
+  background-color: #C8DCE5;
+  color: #fff;
 }
 
 img {
@@ -72,9 +72,9 @@ select:-webkit-autofill:focus {
 /* CONTAINER */
 .container {
   width: 100%;
-  max-width: 1200px;
-  padding-left: 50px;
-  padding-right: 50px;
+  max-width: 1440px;
+  padding-left: 100px;
+  padding-right: 100px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -84,6 +84,70 @@ select:-webkit-autofill:focus {
 .main-content {
   flex-grow: 1;
 }
+
+.sideboard {
+
+}
+.navbar {
+  display: flex;
+  align-items: center;
+
+}
+.navbar-list{
+  display: flex;
+}
+.nav-list {
+  display: flex;
+  list-style: none;
+
+}
+.nav-list-item {
+}
+.search-bag {
+}
+.search {
+}
+.vertical-line {
+}
+.bag {
+}
+.content-text {
+}
+.buy-now {
+}
+.content-img {
+}
+.main-img {
+}
+.end-header {
+}
+.indicator {
+}
+.left {
+}
+.indicator-page {
+}
+.right {
+}
+.watches-page {
+}
+.watch1 {
+}
+.watch2 {
+}
+.watch3 {
+}
+
+
+
+
+
+
+
+
+
+
+
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),
